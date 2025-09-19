@@ -1,4 +1,4 @@
-# Clarity Smart Contract Auditing Service
+# ClarityShield-AI-Auditor
 
 ## 📝 Project Overview
 
