@@ -1,0 +1,5 @@
+{
+  "name": "Clarity Smart Contract Auditing",
+  "description": "An AI-powered tool to audit Clarity smart contracts for security vulnerabilities. Paste your code and receive a detailed security analysis to help secure your DeFi applications on Stacks.",
+  "requestFramePermissions": []
+}
